@@ -47,6 +47,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Community](https://react.dev/community)
 - [React Conferences](https://react.dev/community/conferences)
 - [React CodeSandbox Playground](https://codesandbox.io/s/new)
+- [JSX Converter](https://diogoangelim.github.io/html-to-jsx-demo/)
 
 #### React Tutorials
 
